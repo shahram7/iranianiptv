@@ -10,7 +10,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694791075/ei/QyEEZYeUBfqv_9EPn92IoAU/ip/172.177.36.123/id/rk5r4oBiGZs.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2RNqyKOeUN-gJjeKbZqNTIVNOkLvQ2rq-UHIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBC7ZXIpc1bfCrEurE3Coe4y1DD7HNvYwN2m6vdk-pAQCIQC_pS5mT1p5C7pAkmmdWazRnnTCoMNWdTi7Dgth4YV-ig%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-128x128.png",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_1080_av-p.m3u8?sd=10&rebase=on
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" ,MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" ,Radio Farda
