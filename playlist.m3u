@@ -3,6 +3,8 @@
 https://edge-uk6.manoto.click/live_2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/512px-Iran_International.svg.png",IranIntl
 https://dev-live.livetvstream.co.uk:443/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
@@ -25,3 +27,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" ,Mostanad
 https://s-cloud.irib.ir/live/mostanad/720.m3u8 
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
+https://hls.yourtime.live/hls/stream.m3u8
