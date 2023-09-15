@@ -1,29 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png",Manoto
-https://edge-uk6.manoto.click/live_2500.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/512px-Iran_International.svg.png",IranIntl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/512px-Iran_International.svg.png" group-title="News",IranIntl
 https://dev-live.livetvstream.co.uk:443/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694791075/ei/QyEEZYeUBfqv_9EPn92IoAU/ip/172.177.36.123/id/rk5r4oBiGZs.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2RNqyKOeUN-gJjeKbZqNTIVNOkLvQ2rq-UHIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBC7ZXIpc1bfCrEurE3Coe4y1DD7HNvYwN2m6vdk-pAQCIQC_pS5mT1p5C7pAkmmdWazRnnTCoMNWdTi7Dgth4YV-ig%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-128x128.png",VOA Persian
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="News",Manoto
+https://edge-uk6.manoto.click/live_2500.m3u8
+#EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-128x128.png" group-title="News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" ,MBC Persia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" ,Radio Farda
+#EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" group-title="News",Radio Farda TV
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/rj-touch-icon-114.png",Radio Javan TV
+#EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" group-title="News",Radio Farda
+https://rfe-ingest.akamaized.net/hls/live/2035292/axia21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/rj-touch-icon-114.png" group-title="Music",Radio Javan TV
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w744995341_b2892000.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" ,Caltex Music TV
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" group-title="Music",Caltex Music TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" ,TAPESH TV
+#EXTINF:-1 tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Music",TAPESH TV
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" ,PMC
+#EXTINF:-1  tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" ,PMC Royale
+#EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC Royale
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" ,Mostanad
 https://s-cloud.irib.ir/live/mostanad/720.m3u8 
@@ -31,3 +29,7 @@ https://s-cloud.irib.ir/live/mostanad/720.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694791075/ei/QyEEZYeUBfqv_9EPn92IoAU/ip/172.177.36.123/id/rk5r4oBiGZs.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2RNqyKOeUN-gJjeKbZqNTIVNOkLvQ2rq-UHIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBC7ZXIpc1bfCrEurE3Coe4y1DD7HNvYwN2m6vdk-pAQCIQC_pS5mT1p5C7pAkmmdWazRnnTCoMNWdTi7Dgth4YV-ig%3D%3D/file/index.m3u8
