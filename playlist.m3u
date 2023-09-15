@@ -13,22 +13,26 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" group-title="News",Radio Farda
 https://rfe-ingest.akamaized.net/hls/live/2035292/axia21/playlist.m3u8
+#EXTINF:-1 tvg-id="RanTVIsrael.il" tvg-logo="https://i.ibb.co/yhY2TD5/IMG-20230629-135926.jpg" group-title="Entertainment",Ran TV Israel (720p)
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/rj-touch-icon-114.png" group-title="Music",Radio Javan TV
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w744995341_b2892000.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" group-title="Music",Caltex Music TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Music",TAPESH TV
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC Royale
-http://51.210.199.29/hls/stream.m3u8
+https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" ,Mostanad
 https://s-cloud.irib.ir/live/mostanad/720.m3u8 
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Undefined",IRIB Varzesh (1080p)
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
