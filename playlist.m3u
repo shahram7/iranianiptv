@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/512px-Iran_International.svg.png" group-title="News",IranIntl
 https://dev-live.livetvstream.co.uk:443/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695592855/ei/N10QZZyqHtaHgQfwmLPYAg/ip/88.65.90.158/id/rk5r4oBiGZs.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxu3Nw2MATKd1dnHj81lo9iTUys5LhrqLY34ObdBQSObS3BiT4I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKwiyXw89dPtjREGw2iNbB0_y_ktv-mB1bUthj-AZ_xxAiEA1_kR-2UXh9NGwfU8fSN_srsxhr00uGw-5S6AIulzX7k%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="News",Manoto
 https://edge-uk6.manoto.click/live_2500.m3u8
 #EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-128x128.png" group-title="News",VOA Persian
@@ -39,7 +39,5 @@ https://divanhls.wns.live/hls/stream.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FarsiTV.us" tvg-logo="https://i.ibb.co/TmfPhG3/farsi-tv.png" group-title="Entertainment",Farsi TV (1080p)
 https://live.farsitv.us/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/100px-BBC_Persian_logo.svg.png",BBC Persian Youtube
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694791075/ei/QyEEZYeUBfqv_9EPn92IoAU/ip/172.177.36.123/id/rk5r4oBiGZs.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2RNqyKOeUN-gJjeKbZqNTIVNOkLvQ2rq-UHIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBC7ZXIpc1bfCrEurE3Coe4y1DD7HNvYwN2m6vdk-pAQCIQC_pS5mT1p5C7pAkmmdWazRnnTCoMNWdTi7Dgth4YV-ig%3D%3D/file/index.m3u8
