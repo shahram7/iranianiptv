@@ -3,14 +3,10 @@
 https://dev-live.livetvstream.co.uk:443/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_sd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="News",Manoto
-https://edge-uk6.manoto.click/live_2500.m3u8
 #EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-128x128.png" group-title="News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" group-title="News",Radio Farda TV
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.svg" group-title="News",Radio Farda
 https://rfe-ingest.akamaized.net/hls/live/2035292/axia21/playlist.m3u8
 #EXTINF:-1 tvg-id="RanTVIsrael.il" tvg-logo="https://i.ibb.co/yhY2TD5/IMG-20230629-135926.jpg" group-title="Entertainment",Ran TV Israel (720p)
@@ -26,7 +22,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" ,Mostanad
-https://s-cloud.irib.ir/live/mostanad/720.m3u8 
+https://s3-cdn.sepehrtv.ir/securelive3/mostanadhd/1080p.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
